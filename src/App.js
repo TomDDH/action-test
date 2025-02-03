@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        Git Action Test
+        Git Action Test success on aws
         </a>
       </header>
     </div>
